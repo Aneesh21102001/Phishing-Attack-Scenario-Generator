@@ -1,6 +1,7 @@
 # Phishing-Attack-Scenario-Generator
 
 Overview
+
 The Phishing Attack Scenario Generator is a web application designed to generate realistic phishing scenarios using a GPT-2 language model. It serves as a training tool for awareness against phishing threats.
 
 Features
