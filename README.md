@@ -7,16 +7,23 @@ The Phishing Attack Scenario Generator is a web application designed to generate
 Features
 
 API Endpoint: Generate phishing scenarios based on user-defined prompts.
+
 GPT-2 Integration: Utilizes a pre-trained GPT-2 model for text generation.
+
 CORS Support: Allows interaction with frontend applications.
+
 Logging: Captures generated scenarios for auditing and debugging.
+
 Prompt Testing: Automated testing of various prompts to ensure appropriate outputs.
 
 Technologies Used
 
 Flask: Web framework for building the API.
+
 Hugging Face Transformers: For the GPT-2 language model.
+
 Python: Programming language for the application.
+
 Logging: Python’s logging module for tracking generated scenarios.
 
 Getting Started
